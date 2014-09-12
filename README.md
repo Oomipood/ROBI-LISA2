@@ -1,7 +1,7 @@
 FOLKRACE-ROBI
 =============
 
-FOLKRACE ROBI
+FOLKRACE ROBI - example code
 
 Project details: http://www.oomipood.ee/product/robi/
 
