@@ -1,3 +1,5 @@
+//Folkrace Robi v1.0
+
 //=====VARIABLES=====
 //distance check variables:
 const int trigPinLeft = 4;
