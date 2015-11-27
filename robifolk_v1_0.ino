@@ -91,7 +91,7 @@ void loop(){
 
 //=====FUNCTIONS=====
 void logics(){
-//===============================  Distance check  =========================
+//===============================  Distance check  =====================
   if (distLeft <= distMin){
     digitalWrite(errorLED, 1);
     //Serial.println("Left distance is 0");
